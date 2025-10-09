@@ -7,7 +7,7 @@
 #### تهیه کنندگان:
 - پوریا عرفانزاده - 401110918 [(GitHub)](https://github.com/erfnzdeh)
 - یاشار پیمایی - 401100325 [(GitHub)](https://github.com/yasharp83)
-- امیرحسین سلامی - 401106052
+- امیرحسین سلامی - 401106052 [(GitHub)](https://github.com/amirhoseinsalami)
 
 ---
 
